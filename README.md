@@ -1,7 +1,1 @@
-[![unexp's GitHub stats](https://github-readme-stats.vercel.app/api?username=unexp&show_icons=true&theme=dark)](https://github.com/unexp)
-
-[![unexp's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=unexp&show_icons=true&theme=dark)](https://github.com/unexp)
-
-<a href="https://github.com/unexp/kyle-hunter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=unexp&show_icons=true&theme=dark&repo=kyle-hunter" />
-</a>
+<img src="https://user-images.githubusercontent.com/69902477/194834129-c5e0a7b3-6a5b-469a-82cc-156013f8bb87.png" title="Buks" width="100%" height="auto">
